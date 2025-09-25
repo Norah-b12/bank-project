@@ -1,9 +1,14 @@
 # Bank Project
 
-I built this project as part of my coursework to practice Python, mainly Object-Oriented Programming and file handling.  
-It’s a simple banking system where a user can create an account, log in, and do basic banking operations.
+## Project description
+This project is a simple banking system I built it to practice Object-Oriented Programming, file handling, and structuring code in a way that mimics real-world applications.  
 
----
+The main idea is to allow a user to create accounts, deposit and withdraw money, transfer funds, and track account status using simple rules.  
+It also handles overdrafts, account activation/deactivation, and sub-accounts, which makes it a bit closer to how banks work in real life.  
+
+I wanted to make something interactive where the user can log in and perform different operations while learning how to manage data using CSV files instead of a full database.  
+It was also a great way to practice error handling, edge cases, and logical thinkingby making sure all operations behave correctly even in unusual situations.
+
 
 ## Features
 ### Account Management
