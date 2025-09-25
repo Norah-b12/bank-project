@@ -1,5 +1,5 @@
 id,first_name,last_name,password,checking,savings,active,overdraft_count
-10001,William,Hartnell,4fg56,100,False,True,0
+10001,William,Hartnell,4fg56,0,False,True,1
 10002,Patrick,Troughton,serf,False,200,True,1
 10003,Jon ,Pertwee,233!,-65,250,False,2
 10004,Tom ,Baker,ee,0,False,True,0
@@ -11,3 +11,4 @@ id,first_name,last_name,password,checking,savings,active,overdraft_count
 100010,Jake ,Paul,wegtr,10000,-10,True,0
 100011,rtg,drg,2435365,5000,False,True,0
 100012,Devlin,Booth,123456,False,0,True,0
+
