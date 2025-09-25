@@ -421,9 +421,7 @@ class Bank:
             userchoice = input("Choose: ").strip()
             if userchoice == "1":
                 acc.view_info()
-            
                 input("\nPress Enter to continue...")  
-
             elif userchoice == "2":
                 d=Deposit(acc)
                 d.do()
@@ -517,7 +515,8 @@ class Bank:
             w = csv.writer(f)
             w.writerow([new_id, first, last, pw, checking, savings, "True", "0"])
 
-        print("Account created successfully. Your ID is " + new_id + "\n---------------you can now log in by useing option (1) ---------------c")
+        print("Account created successfully. Your ID is " + new_id + "\n---------------you can now log in by useing option (1) ------------------")
+
 
 if __name__=="__main__": 
     bank = Bank()

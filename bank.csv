@@ -12,3 +12,5 @@ id,first_name,last_name,password,checking,savings,active,overdraft_count
 100011,rtg,drg,2435365,5000,False,True,0
 100012,Devlin,Booth,123456,False,0,True,0
 
+100013,norah,aa,222,100,False,True,0
+100014,s,s,ss,1,False,True,0
